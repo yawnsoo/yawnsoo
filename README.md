@@ -31,9 +31,9 @@
 
 <br></br>
 <div align=center>
- 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0607cys)](https://solved.ac/0607cys)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawnsoo&show_icons=true&theme=github_dark)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0607cys)](https://solved.ac/0607cys)
  
 </div>
 <!--
