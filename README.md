@@ -30,13 +30,12 @@
 </p>
 
 <br></br>
-<p>
+<div align=center>
  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0607cys)](https://solved.ac/0607cys)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0607cys)](https://solved.ac/0607cys)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawnsoo&show_icons=true&theme=github_dark)
-</p>
+ 
+</div>
 <!--
 **yawnsoo/yawnsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
