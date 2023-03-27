@@ -12,7 +12,6 @@ BE 개발자가 되기 위해 노력 중이며 [Appstore에 앱 출시](https://
 
 항상 거시적인 관점을 통해 판단하고 행동하려고 노력합니다. 개인의 한계는 분명하며 큰 변화는 함께 힘을 합쳐야 만들 수 있다고 생각합니다. 공동 목표를 향해 함께 협업하는 과정을 즐깁니다.
 
-##
 </p>
 
 <br></br>
@@ -33,9 +32,12 @@ BE 개발자가 되기 위해 노력 중이며 [Appstore에 앱 출시](https://
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+
+##
 </p>
 
 <br></br>
+
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawnsoo&show_icons=true&theme=github_dark)
