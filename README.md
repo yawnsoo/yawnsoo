@@ -40,7 +40,7 @@ BE 개발자가 되기 위해 노력 중이며 [Appstore에 앱 출시](https://
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawnsoo&show_icons=true&theme=github_dark)
+![yawnsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawnsoo&theme=github_dark&show_icons=true)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0607cys)](https://solved.ac/0607cys)
  
 </div>
